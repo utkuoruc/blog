@@ -1,0 +1,66 @@
+{#-
+  This file was automatically generated - do not edit
+-#}
+{% extends "main.html" %}
+{% block tabs %}
+  {{ super() }}
+  <style>.md-header{position:initial}.md-main__inner{margin:0}.md-content{display:none}@media screen and (min-width:60em){.md-sidebar--secondary{display:none}}@media screen and (min-width:76.25em){.md-sidebar--primary{display:none}}</style>
+  <section class="mdx-container">
+    <div class="md-grid md-typeset">
+      <div class="mdx-hero">
+        <div class="mdx-hero__image">
+          <img src="images/homepage.png" alt="" width="600" height="600" draggable="false">
+        </div>
+		
+		{% if i18n_page_locale == "en" %}
+        <div class="mdx-hero__content">
+          
+          <h1>Hi 🤠, I'm Utku Oruç</h1>
+          <p>Welcome to my personal website! You can browse my blogs in 'Blogs' section above!</p>
+
+          <a href="https://www.github.com/utkuoruc/" style="color:white">
+            <strong>@utkuoruc</strong> on
+            <span class="twemoji">
+              {% include ".icons/fontawesome/brands/github.svg" %}
+            </span>
+            <strong>Github</strong>
+          </a>
+            <br></br>
+          <a href="{{ 'asciinema/asciinema/' | url }}" title="Introduction" class="md-button md-button--primary">
+            Start>>
+          </a>
+		      <a href="{{ 'aboutme/aboutme/' | url }}" title="AboutMe" class="md-button">
+             About Me>>
+          </a>
+
+          <p>To contact:</p>
+          <p>
+          <a href="https://linkedin.com/in/utkuoruc" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-user-name" height="25" width="40" /></a>
+          <a href="mailto:utku2oruc@gmail.com" target="blank"> <img img src="https://camo.githubusercontent.com/7a636997757a6b8fec8abc095b48cb88dafbf47318c709d81a5b563dae1c84e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f476d61696c2d2532334242303031422e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d476d61696c266c6f676f436f6c6f723d7768697465" ></a>
+          </p>
+          
+        </div>
+		{% endif %}
+		
+		
+	   {% if i18n_page_locale == "tr" %}
+        <div class="mdx-hero__content">
+          <h1>Blog sayfama hoşgeldiniz!</h1>
+          <p>Yukarıdan Bloglar kısmını seçerek bloglarıma göz atabilirsiniz!</p>
+          <a href="{{ 'asciinema/asciinema/' | url }}" title="Introduction" class="md-button md-button--primary">
+            Blogs>>
+          </a>
+		      <a href="{{ 'aboutme/aboutme/' | url }}" title="AboutMe" class="md-button">
+             About Me>>
+          </a>
+        </div>
+		{% endif %}
+		
+		
+		
+      </div>
+    </div>
+  </section>
+{% endblock %}
+{% block content %}{% endblock %}
+{% block footer %}{% endblock %}
