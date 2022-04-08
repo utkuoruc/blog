@@ -48,5 +48,12 @@ lang: en-US
 
 <!-- paginate: false -->
 
-# Hakkımda
-Adım Utku Oruç. Recep Tayyip Erdoğan Üniversitesi'nde Bilgisayar Mühendisliği (Computer Engineering) öğrencisiyim.
+# Education
+
+![rteu](assets/rteu.png)
+
+#### Recep Tayyip Erdogan University
+*Computer Engineering Department, 2021-2024*
+
+#### Pendik Alparslan Anatolian Highschool
+*Highschool degree, 2016-2024*
