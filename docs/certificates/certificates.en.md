@@ -10,12 +10,12 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: 'Hakkımda'
+header: 'About Me'
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg)'
-title: "Hakkımda"
+title: "About Me"
 author: "Author: Utku Oruç"
 date:
-subtitle: "Hakkımda"
+subtitle: "About Me"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
 titlepage: true
 titlepage-color: "FFFFFF"
@@ -48,5 +48,18 @@ lang: en-US
 
 <!-- paginate: false -->
 
-# Hakkımda
-Adım Utku Oruç. Recep Tayyip Erdoğan Üniversitesi'nde Bilgisayar Mühendisliği (Computer Engineering) öğrencisiyim.
+# Licenses & certifications
+
+### Java Certificate
+
+*Issuing organization: Hackerrank*  
+*Issued Mar 2022 - No Expiration Date*  
+*Credential ID: 07314053149d*  
+[See credential](https://www.hackerrank.com/certificates/07314053149d)
+
+### C# Certificate
+
+*Issuing organization: Hackerrank*  
+*Issued Mar 2022 - No Expiration Date*  
+*Credential ID: d4933a91fd56*  
+[See credential](https://www.hackerrank.com/certificates/d4933a91fd56)

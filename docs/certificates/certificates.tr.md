@@ -48,5 +48,16 @@ lang: en-US
 
 <!-- paginate: false -->
 
-# Hakkımda
-Adım Utku Oruç. Recep Tayyip Erdoğan Üniversitesi'nde Bilgisayar Mühendisliği (Computer Engineering) öğrencisiyim.
+# Licenses & certifications
+
+#### Java Certificate
+Issuing organization: Hackerrank
+Issued Mar 2022 · No Expiration Date
+*Credential ID: 07314053149d*
+[See credential](https://www.hackerrank.com/certificates/07314053149d)
+
+#### C# Certificate
+Issuing organization: Hackerrank
+Issued Mar 2022 · No Expiration Date
+*Credential ID: d4933a91fd56*
+[See credential](https://www.hackerrank.com/certificates/d4933a91fd56)
