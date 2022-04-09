@@ -215,7 +215,7 @@ plugins:
   - minify:
       minify_html: false
   #- with-pdf:
-      #author: Dr. Uğur CORUH
+      #author: Utku Oruç
       #copyright: ANY TEXT
       #
       #cover: false

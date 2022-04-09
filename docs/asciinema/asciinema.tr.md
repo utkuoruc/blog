@@ -10,10 +10,10 @@ _class: lead
 paginate: true
 backgroundColor: #fff
 backgroundImage: url('https://marp.app/assets/hero-background.svg')
-header: 'CE103 Algorithms and Programming I'
+header: 'Asciinema Tutorial'
 footer: '![height:50px](http://erdogan.edu.tr/Images/Uploads/MyContents/L_379-20170718142719217230.jpg) RTEU CE103 Week-1'
-title: "CE103 Algorithms and Programming I"
-author: "Author: Asst. Prof. Dr. Uğur CORUH"
+title: "Asciinema Tutorial"
+author: "Author: Utku Oruç"
 date:
 subtitle: "Intro"
 geometry: "left=2.54cm,right=2.54cm,top=1.91cm,bottom=1.91cm"
@@ -35,7 +35,7 @@ disable-header-and-footer: false
 header-left:
 header-center:
 header-right:
-footer-left: "© Dr. Uğur CORUH"
+footer-left: "© Utku Oruç"
 footer-center: "License: WTFPL"
 footer-right:
 subparagraph: true

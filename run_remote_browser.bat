@@ -1,1 +1,0 @@
-start "" "https://ucoruh.github.io/course-note-template/"
