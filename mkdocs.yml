@@ -260,8 +260,9 @@ extra_javascript:
 nav:
   - Home: index.md
   - Blogs:
-    - Asciinema (Asciinema Tutorial): asciinema/asciinema.md
-    - Github Copilot (Github Copilot): github-copilot/github-copilot.md
+    - Asciinema Tutorial: asciinema/asciinema.md
+    - Github Copilot Fast Guide: github-copilot/github-copilot.md
+    - Spotify Embed List: spotify-embed/spotify.md
   - About me:
     - About: aboutme/aboutme.md
     - Education: education/education.md
