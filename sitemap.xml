@@ -64,4 +64,12 @@
          <xhtml:link rel="alternate" hreflang="tr" href="https://utkuoruc.github.io/blog/tr/resume/"/>
          
     </url>
+    <url>
+         <loc>https://utkuoruc.github.io/blog/spotify-embed/spotify/</loc>
+         <lastmod>2022-04-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://utkuoruc.github.io/blog/en/spotify-embed/spotify/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://utkuoruc.github.io/blog/tr/spotify-embed/spotify/"/>
+         
+    </url>
 </urlset>
