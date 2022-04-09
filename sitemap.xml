@@ -25,6 +25,14 @@
          
     </url>
     <url>
+         <loc>https://utkuoruc.github.io/blog/certificates/certificates/</loc>
+         <lastmod>2022-04-09</lastmod>
+         <changefreq>daily</changefreq>
+         <xhtml:link rel="alternate" hreflang="en" href="https://utkuoruc.github.io/blog/en/certificates/certificates/"/>
+         <xhtml:link rel="alternate" hreflang="tr" href="https://utkuoruc.github.io/blog/tr/certificates/certificates/"/>
+         
+    </url>
+    <url>
          <loc>https://utkuoruc.github.io/blog/changelog/</loc>
          <lastmod>2022-04-09</lastmod>
          <changefreq>daily</changefreq>
