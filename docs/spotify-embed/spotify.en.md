@@ -68,6 +68,7 @@ Copy the embed code. In this case I use given code
 
 ### Enjoy
 That's it! Now you have your pretty playlist on your website 🍉
+Careful before you press the play button, check your volume level, it can be too loud 🤫
 
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/7GYqzwtxd7gqggYgEOpnAu?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
