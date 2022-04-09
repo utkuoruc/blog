@@ -48,12 +48,12 @@ lang: en-US
 
 <!-- paginate: false -->
 
-# Education
+# Eğitim
 
 ![rteu](assets/rteu.png)
 
-#### Recep Tayyip Erdogan University
+#### Recep Tayyip Erdogan Üniversitesi
 *Computer Engineering Department, 2021-2024*
 
-#### Pendik Alparslan Anatolian Highschool
-*Highschool degree, 2016-2024*
+#### Pendik Alparslan Anadolu Lisesi
+*Highschool degree, 2016-2020*

@@ -56,4 +56,4 @@ lang: en-US
 *Computer Engineering Department, 2021-2024*
 
 #### Pendik Alparslan Anatolian Highschool
-*Highschool degree, 2016-2024*
+*Highschool degree, 2016-2020*
